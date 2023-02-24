@@ -2,7 +2,7 @@
 >Follow The Given Steps
 
 ## Step 1:
-Download for windows 64bit OS [Click Here](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlus2021Retail.img)
+Download for windows 64bit/32bit OS [Click Here](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlus2021Retail.img)
 
 ## Step 2:
 Open CMD in Run as Administrator 
@@ -30,5 +30,4 @@ cscript ospp.vbs /sethst:e8.us.to
 cscript ospp.vbs /act
 ```
 
-# Congratulations 
-##### Office Activated
+##### Congratulations, Office Activated 🥳
